@@ -1,11 +1,10 @@
 #include "stdio.h"
 
 int main(void)
-{
-	unsigned int counter;
+{	// initialize phase
+	unsigned int counter =1;
 	int num = 0, largest = 0;
-	// initialize phase
-	counter = 1;
+	
 	//processing phase
 	while (counter <= 10) { //loop 10 times
 		printf_s("Enter a number: "); //prompt for input
