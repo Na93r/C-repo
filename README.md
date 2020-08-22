@@ -1,4 +1,5 @@
-# Nasser-Malam
+<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=&logoColor=white"/> -repo
+<br>
 Private repository for C program that I wrote
 
 ### List of programs
@@ -9,6 +10,3 @@ Private repository for C program that I wrote
 * [Block Letters](https://github.com/Na93r/Nasser-Malam/blob/master/block_letters.c)
 * [Dog Years](https://github.com/Na93r/Nasser-Malam/blob/master/dog_years.c)
 * [Population Growth Calculator](https://github.com/Na93r/Nasser-Malam/blob/master/population_growth_calculator.c)
-
-
-[![Top Langs](https://github-readme-stats.na93r.vercel.app/api/top-langs/?username=Na93r&layout=compact)](https://github.com/na93r/github-readme-stats)
