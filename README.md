@@ -11,3 +11,5 @@ Private repository for C program that I wrote
 * [Dog Years](https://github.com/Na93r/Nasser-Malam/blob/master/dog_years.c)
 * [Population Growth Calculator](https://github.com/Na93r/Nasser-Malam/blob/master/population_growth_calculator.c)
 * [Salary Increase Calculator](https://github.com/Na93r/C-repo/blob/master/salary_increase.c)
+* [Multiple of Three](https://github.com/Na93r/C-repo/blob/master/multiples_of_three.c)
+* [Matrix Effect](https://github.com/Na93r/C-repo/blob/master/matrix_effect.c)
