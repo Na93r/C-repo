@@ -3,13 +3,15 @@
 Private repository for C program that I wrote
 
 ### List of programs
-* [Sales Commission Calculator](https://github.com/Na93r/Nasser-Malam/blob/master/Sales_Commission%20Calculator.c)
-* [Mortgage Calculator](https://github.com/Na93r/Nasser-Malam/blob/master/Mortgage_Calculator.c)
-* [Interest Calculator](https://github.com/Na93r/Nasser-Malam/blob/master/Interest_Calculator.c) 
-* [Find the largest Number](https://github.com/Na93r/Nasser-Malam/blob/master/largest_number.c)
+
 * [Block Letters](https://github.com/Na93r/Nasser-Malam/blob/master/block_letters.c)
 * [Dog Years](https://github.com/Na93r/Nasser-Malam/blob/master/dog_years.c)
+* [Find the Largest Number](https://github.com/Na93r/Nasser-Malam/blob/master/largest_number.c)
+* [Find the Two largest Number](https://github.com/Na93r/Nasser-Malam/blob/master/two_largest_numbers.c)
+* [Interest Calculator](https://github.com/Na93r/Nasser-Malam/blob/master/Interest_Calculator.c) 
+* [Matrix Effect](https://github.com/Na93r/C-repo/blob/master/matrix_effect.c)
+* [Mortgage Calculator](https://github.com/Na93r/Nasser-Malam/blob/master/Mortgage_Calculator.c)
+* [Multiple of Three](https://github.com/Na93r/C-repo/blob/master/multiples_of_three.c)
 * [Population Growth Calculator](https://github.com/Na93r/Nasser-Malam/blob/master/population_growth_calculator.c)
 * [Salary Increase Calculator](https://github.com/Na93r/C-repo/blob/master/salary_increase.c)
-* [Multiple of Three](https://github.com/Na93r/C-repo/blob/master/multiples_of_three.c)
-* [Matrix Effect](https://github.com/Na93r/C-repo/blob/master/matrix_effect.c)
+* [Sales Commission Calculator](https://github.com/Na93r/Nasser-Malam/blob/master/Sales_Commission%20Calculator.c)
