@@ -9,6 +9,7 @@ List of C program that I wrote
 * [Dog Years](https://github.com/Na93r/Nasser-Malam/blob/master/dog_years.c)
 * [Find the Largest Number](https://github.com/Na93r/Nasser-Malam/blob/master/largest_number.c)
 * [Find the Two largest Number](https://github.com/Na93r/Nasser-Malam/blob/master/two_largest_numbers.c)
+* [Hypotenuse Calculator](https://github.com/Na93r/C-repo/blob/master/hypotenuse_calculator.c)
 * [Interest Calculator](https://github.com/Na93r/Nasser-Malam/blob/master/Interest_Calculator.c) 
 * [Matrix Effect](https://github.com/Na93r/C-repo/blob/master/matrix_effect.c)
 * [Mortgage Calculator](https://github.com/Na93r/Nasser-Malam/blob/master/Mortgage_Calculator.c)
