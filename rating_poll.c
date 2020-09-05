@@ -24,6 +24,6 @@ int main() {
 	// output the frequencies in a tabular format
 	for (size_t rating = 1; rating < FREQUENCY_SIZE; ++rating)
 	{
-		printf_s("%6d%17d\n", rating, frequency[rating]);
+		printf_s("%6llu%17d\n", rating, frequency[rating]);
 	}
 }
